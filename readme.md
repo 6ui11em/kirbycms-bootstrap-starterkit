@@ -2,6 +2,9 @@
 
 This is a Bootstrap 3 version of the default starterkit of Kirby CMS.
 
+Demo: <http://bydanimarti.com/themes/kirby/kirbycms-bootstrap-starterkit/>
+
+
 # Kirby
 
 Kirby is a file-based CMS.
