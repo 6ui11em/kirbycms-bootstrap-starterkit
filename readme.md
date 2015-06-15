@@ -1,3 +1,7 @@
+# Bootstrap 3 Kirby Starterkit
+
+This is a Bootstrap 3 version of the default starterkit of Kirby CMS.
+
 # Kirby
 
 Kirby is a file-based CMS.
