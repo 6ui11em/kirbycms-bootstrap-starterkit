@@ -17,4 +17,8 @@ fields:
     type:  tags
   copyright:
     label: Copyright
-    type:  textarea
+    type:  textarea  
+  analytics:
+    label: Google Analytics ID
+    type:  text
+    default: UA-XXXXX-X
