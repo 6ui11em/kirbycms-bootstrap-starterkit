@@ -5,7 +5,7 @@
 		<div class="container">
 			<h1><?php echo $page->title()->html() ?></h1>
 			<?php echo $page->text()->kirbytext() ?>
-			<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+			<p><a class="btn btn-primary btn-lg" href="<?php echo $page->url() ?>" role="button">Learn more &raquo;</a></p>
 		</div>
 	</div>
 
